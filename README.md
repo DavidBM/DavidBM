@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my profile and feel free to check whatever you want. Lately I'm working most in Rust and as a manager in Couragium (which I founend).
+
+Mostly you can find Typescript, Javascript and Rust.
+
 <!--
 **DavidBM/DavidBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
