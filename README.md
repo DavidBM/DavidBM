@@ -2,7 +2,7 @@
 
 Welcome! It's cool ⚡ that you are here.
 
-Feel free to check whatever you like. Lately I'm working mostly in Rust (Acteur / Amazon Ion Parser) and as a founder/manager/programmer/ in Couragium, my own software development company.
+Feel free to check whatever you like. Lately I'm working mostly in Rust (Acteur / Amazon Ion Parser & QLDB driver) and as a founder/manager/programmer/ in Couragium, my own software development company.
 
 #### Work
 
