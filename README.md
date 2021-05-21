@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-Welcome! It's cool ⚡ that you are here.
+Welcome! It's cool that you are here.
 
-Feel free to check whatever you like. Lately I'm working mostly in Rust (Acteur / Amazon Ion Parser & QLDB driver) and as a programmer in Couragium, which it is software development company that I founded.
+Feel free to check whatever you like. Lately I'm working mostly in Rust (Acteur / Amazon Ion Parser & QLDB driver) in Couragium, which it is software development company that I founded.
 
 #### Work
 
 If you need any custom development, let me know or contact Couragium at [https://www.couragium.com/en/contact/](https://www.couragium.com/en/contact/) 📫. I'm sure we can find a way to help.
 
-We work mostly in Rust and Typescript and can handle very complex and performance sensitive backend and infrastructure as well as complex business scenarios. We do web and phone apps too. Of course, we are all about open source 🌱. You can check my repositories 📚 and Couragium's ones too in [https://github.com/Couragium/](https://github.com/Couragium/).
+We work mostly in Rust and Typescript and can handle very complex and performance sensitive backend and infrastructure as well as complex business scenarios. Of course, we are all about open source 🌱. You can check my repositories and Couragium's ones too in [https://github.com/Couragium/](https://github.com/Couragium/).
 
 #### Open source
 
