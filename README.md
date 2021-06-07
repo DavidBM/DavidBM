@@ -2,17 +2,20 @@
 
 Welcome! It's cool that you are here.
 
-Feel free to check whatever you like. Lately I'm working mostly in Rust (Acteur / Amazon Ion Parser & QLDB driver) in Couragium, which it is software development company that I founded.
-
-#### Work
-
-If you need any custom development, let me know or contact Couragium at [https://www.couragium.com/en/contact/](https://www.couragium.com/en/contact/) 📫. I'm sure we can find a way to help.
-
-We work mostly in Rust and Typescript and can handle very complex and performance sensitive backend and infrastructure as well as complex business scenarios. Of course, we are all about open source 🌱. You can check my repositories and Couragium's ones too in [https://github.com/Couragium/](https://github.com/Couragium/).
+Feel free to check whatever you like. Lately I'm working mostly in Rust (Acteur, Amazon Ion Parser & QLDB driver) in the FinTech sector.
 
 #### Open source
 
 If you are looking at any of my projects and have any question 🤔, feel free to open an issue.
+
+My open source projects:
+
+- https://github.com/Couragium/qldb-rs
+- https://github.com/Couragium/ion-binary-rs
+- https://github.com/DavidBM/acteur-rs
+- https://github.com/Couragium/rsmq-async-rs
+- https://github.com/endangeredlanguagesproject/COVID-19/
+- https://github.com/DavidBM/planer_shader_webgl
 
 Enjoy the code! 😄
 
