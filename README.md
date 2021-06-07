@@ -10,18 +10,23 @@ If you are looking at any of my projects and have any question, feel free to ope
 
 My open source projects:
 
-- https://github.com/Couragium/qldb-rs
-- https://github.com/Couragium/ion-binary-rs
-- https://github.com/DavidBM/acteur-rs
-- https://github.com/Couragium/rsmq-async-rs
-- https://github.com/endangeredlanguagesproject/COVID-19/
+- [RUST] https://github.com/Couragium/qldb-rs
+- [RUST] https://github.com/Couragium/ion-binary-rs
+- [RUST] https://github.com/DavidBM/acteur-rs
+- [RUST] https://github.com/Couragium/rsmq-async-rs
+- [JS] https://github.com/endangeredlanguagesproject/COVID-19/
+- And other old projects in TypeScript and JavaScript that you can find in my repos.
 
 Enjoy the code! 😄
 
-#### Personal experience
+#### Personal
 
-Personally I have worked with Javascript, Typescript, Rust, Python, C/C++, MySQL, Redis, ElasticSearch, Docker, Kubernetes, Google Cloud, Amazon AWS, Serverless, WebGL, DOM, WebWorkers, Vuej.js, React.js, Cordova, and many other that aren't coming to my mind right now. 
+Personally I work with Rust as my main language, but I'm fully versed in Javascript and Typescript too. I'm familiar with Python, Go, Ruby, C and C++.  
 
-I did frontend development with frameworks, videogame development in the browser and a bit in C++, a lot of backend development with relation databases as well with more event driven architectures with relational and non-relational databases. I worked on USB drivers and binary parsers with Rust too and done some web scrapping. In my free time I develop an actor-like framework, the AWS QLDB Rust driver and other utilities.
+I'm fully competent using Linux, MySQL, Redis, ElasticSearch, Eventstore, Docker, Google Cloud, Amazon AWS, Serverless (mostly AWS Lambda), HTML5, DOM, WebWorkers, CSS, etc. I like doing low level stuff like the binary parser/encoder for Ion and the QLDB Database driver.  
+
+I've worked occasionally with Kubernetes, WebGL, Vuej.js, React.js, Cordova, and many others that aren't coming to my mind right now. I've touched niche things like ISO 20022, ASN.1, PSD2, etc. 
+
+I did frontend development with frameworks, videogame development in the browser and a bit in C++, a lot of backend development with relation databases as well with more event driven architectures with relational and non-relational databases. I worked on USB drivers and binary parsers with Rust too and done some web scrapping. In my free time I do open source code.
 
 I have been software developer 💻, architect 🗒, team lead 👫, CTO 🤺 and CEO 💼 in the last 4 years, but I will never stop programming!
