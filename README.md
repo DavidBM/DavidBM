@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 Welcome! It's cool that you are here.
 
 Feel free to check whatever you like. Lately I'm working mostly in Rust (Acteur, Amazon Ion Parser & QLDB driver) in the FinTech sector.
 
-#### Open source
+### Open source
 
 If you are looking at any of my projects and have any question, feel free to open an issue.
 
@@ -19,7 +19,7 @@ My open source projects:
 
 Enjoy the code! 😄
 
-#### Personal
+### Personal
 
 Personally I work with Rust as my main language, but I'm fully versed in Javascript and Typescript too. I'm familiar with Python, Go, Ruby, C and C++.  
 
