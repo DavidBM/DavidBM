@@ -15,7 +15,6 @@ My open source projects:
 - https://github.com/DavidBM/acteur-rs
 - https://github.com/Couragium/rsmq-async-rs
 - https://github.com/endangeredlanguagesproject/COVID-19/
-- https://github.com/DavidBM/planer_shader_webgl
 
 Enjoy the code! 😄
 
