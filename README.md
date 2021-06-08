@@ -17,7 +17,7 @@ My open source projects:
 - [JS] https://github.com/endangeredlanguagesproject/COVID-19/
 - And other old projects in TypeScript and JavaScript that you can find in my repos.
 
-Enjoy the code! 😄
+Enjoy the code! 😄  And if you depend of any of these libraries in your business, sponsor me! :)
 
 ### Personal
 
