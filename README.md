@@ -19,7 +19,7 @@ My open source projects:
 
 Enjoy the code! 😄 
 
-### Personal
+### Me
 
 Personally I work with Rust as my main language, but I'm fully versed in Javascript and Typescript too. I'm familiar with Python, Go, Ruby, C and C++, etc.  
 
