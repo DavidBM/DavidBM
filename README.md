@@ -10,10 +10,10 @@ If you are looking at any of my projects and have any question, feel free to ope
 
 My open source projects:
 
-- [RUST] https://github.com/DavidBM/qldb-rs
-- [RUST] https://github.com/DavidBM/ion-binary-rs
-- [RUST] https://github.com/DavidBM/acteur-rs
-- [RUST] https://github.com/DavidBM/rsmq-async-rs
+- [RUST] https://github.com/DavidBM/qldb-rs - Driver for the AWS QLDB Ledger/Database
+- [RUST] https://github.com/DavidBM/ion-binary-rs - Implementation of Amazon Ion format (a BSON-like format, but better)
+- [RUST] https://github.com/DavidBM/acteur-rs (an opinionated actors' framework) 
+- [RUST] https://github.com/DavidBM/rsmq-async-rs (RSMQ queue system implementation in Rust)
 - [JS] https://github.com/endangeredlanguagesproject/COVID-19/
 - And other old projects in TypeScript, and even older in JavaScript, that you can find in my repos.
 
