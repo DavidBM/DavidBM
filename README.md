@@ -10,12 +10,12 @@ If you are looking at any of my projects and have any question, feel free to ope
 
 My open source projects:
 
-- [RUST] https://github.com/Couragium/qldb-rs
-- [RUST] https://github.com/Couragium/ion-binary-rs
+- [RUST] https://github.com/DavidBM/qldb-rs
+- [RUST] https://github.com/DavidBM/ion-binary-rs
 - [RUST] https://github.com/DavidBM/acteur-rs
-- [RUST] https://github.com/Couragium/rsmq-async-rs
+- [RUST] https://github.com/DavidBM/rsmq-async-rs
 - [JS] https://github.com/endangeredlanguagesproject/COVID-19/
-- And other old projects in TypeScript and JavaScript that you can find in my repos.
+- And other old projects in TypeScript, and even older in JavaScript, that you can find in my repos.
 
 Enjoy the code! 😄 
 
@@ -27,6 +27,6 @@ I'm fully competent using Linux, MySQL, Redis, ElasticSearch, Eventstore, Docker
 
 I've worked occasionally with Kubernetes, WebGL, Vuej.js, React.js, Cordova, and many others that aren't coming to my mind right now. I've used niche FinTech things like ISO 20022, ASN.1, PSD2, etc. 
 
-I did some videogame development in the browser and in C++. Hopefulle I will be able to continue with it in the future. I worked a bit with USB under Linux, done some web scrapping and toyed with ECS a bit too. In my free time I'm with my family and when I have time, I do some open source code too.
+I did some videogame development in the browser and in C++. Hopefully I will be able to continue with it in the future. I worked a bit with USB under Linux, done some web scrapping and toyed with ECS a bit too. In my free time I'm with my family and when I have time, I do some open source code too.
 
 I have been software developer, architect, team lead, CTO and CEO in the last 13 years, but I will never stop programming!
