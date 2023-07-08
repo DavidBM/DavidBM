@@ -31,4 +31,4 @@ I've worked occasionally with Kubernetes, WebGL, Vuej.js, React.js, Cordova, and
 
 I did some video game development in the browser and in C++. Hopefully I will be able to continue with it in the future. I worked a bit with USB under Linux, done some web scrapping and toyed with ECS a bit too. In my free time I'm with my family and when I have time, I do some open source code too.
 
-I have been software developer, architect, team lead, CTO and CEO in the last 13 years, but I will never stop coding!
+I have been software developer, architect, team lead, CTO and CEO in the last 14 years, but I enjoy coding full time now.
